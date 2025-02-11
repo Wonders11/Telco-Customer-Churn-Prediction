@@ -1,0 +1,9 @@
+Environment name: churnpred
+
+Create environment: conda create -p churnpred python==3.9 -y
+Activate environment
+Create requirements.txt file, update it and install the requirements.txt
+Install ipykernel as well
+Create Experiments.ipynb file for all the analysis of data
+Select the kernel and start coding
+
