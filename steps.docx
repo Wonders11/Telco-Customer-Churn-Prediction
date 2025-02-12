@@ -6,4 +6,6 @@ Create requirements.txt file, update it and install the requirements.txt
 Install ipykernel as well
 Create Experiments.ipynb file for all the analysis of data
 Select the kernel and start coding
+Create prediction.ipynb and code
+app.py and code
 
